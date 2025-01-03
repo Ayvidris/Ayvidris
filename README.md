@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RETINEX-BASED DEEP LEARNING FRAMEWORK FOR LOW-LIGHT IMAGE ENHANCEMENT**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Frontend Development** and **Cyber Security**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
